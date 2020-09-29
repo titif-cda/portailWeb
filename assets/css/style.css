@@ -1,0 +1,28 @@
+.box .image.mcmp img {
+
+    height: auto;
+    width: 306px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.banner > article h2 {
+    font-size: 5rem;
+}
+
+.image.fit img {
+
+    height: 306px;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    padding-bottom: 30px;
+}
+
+.row.uniform.\35 0\25 > * {
+    padding: 0;
+                  }

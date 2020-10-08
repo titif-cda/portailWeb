@@ -26,3 +26,28 @@ h2{
 .row.uniform.\35 0\25 > * {
     padding: 0;
                   }
+
+
+#two .box {
+    margin-bottom: 2rem;
+    background:none;
+}
+
+.contact{
+    float: left;
+    width: 500px;
+}
+
+#two img{
+    border-radius: 80%;
+    height: 225px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#two p{
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}

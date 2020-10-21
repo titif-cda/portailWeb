@@ -23,7 +23,7 @@ h2{
     padding-bottom: 30px;
 }
 
-.row.uniform.\35 0\25 > * {
+.row.uniform.\35 \25 > * {
     padding: 0;
                   }
 
@@ -34,7 +34,7 @@ h2{
 }
 
 .contact{
-    float: left;
+
     width: 500px;
 }
 
@@ -49,5 +49,52 @@ h2{
 #two p{
     margin-left: auto;
     margin-right: auto;
-    width: 6em
+
+}
+
+.box{
+    height: 890px;
+}
+
+.cv{
+    padding-top: 68px;
+}
+
+.col img{
+    height: 60px;
+    width: auto;
+}
+
+
+
+.down{
+    margin-right: 137px;
+    display: flex;
+    float: right;
+}
+#two img {
+    padding-top: 81px;
+    border-radius: 80%;
+    height: 225px;
+    display: block;
+    margin-left: 71px;
+    margin-right: auto;
+}
+#two p {
+    margin-top: 23px;
+
+}
+
+#two{
+    height: 800px;
+}
+
+.contact img{
+    padding-top: 81px;
+    border-radius: 80%;
+    height: 225px;
+    display: block;
+    margin-left: 71px;
+    margin-right: auto;
+
 }
